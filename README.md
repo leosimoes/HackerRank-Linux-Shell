@@ -8,5 +8,5 @@ Language: BASH
 - Bash
 
 
-## Referências
+## References
 https://www.hackerrank.com/domains/shell
